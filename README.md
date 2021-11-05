@@ -7,3 +7,5 @@
 3. 
 ### 资源下载
 > [hs_sdk_cocos](https://github.com/git-xiao/hs_sdk/raw/main/hs_sdk_cocos_v1.0.6.zip)
+> 
+> [hs_sdk_laya](https://github.com/git-xiao/hs_sdk/raw/main/hs_sdk_laya_v1.0.6.zip)
